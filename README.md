@@ -1,0 +1,1 @@
+Program v C# vytvoří seznam oblíbených věcí podle počtu položek zadaných uživatelem. Uživatel může následně seznam upravit pomocí funkce `swap`, která prohodí dvě položky, nebo `edit`, která změní vybranou položku. Program nakonec vypíše upravený nebo původní seznam.
